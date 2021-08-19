@@ -25,6 +25,10 @@ EDA is the aim of this case study.
 
 - Univariate and Bivariate analysis using categorical and numerical columns
   - Plotting various visualization plots for different columns(taking single column at once as well as taking multiple columns) vs the target variable
+    ![image](https://user-images.githubusercontent.com/73285984/130033722-a78283d8-33fe-458a-aac2-2ea9ac766277.png)
+    ![image](https://user-images.githubusercontent.com/73285984/130033871-a2536cba-4c52-4805-8f42-0c090169eb74.png)
+
+
 
 - Derived metrics
   - Dividing continuous features into bins to make the analysis appropriate an meaningful
